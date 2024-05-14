@@ -9,8 +9,8 @@ export default function App() {
         My first React Native App! -2024- AORA Project
       </Text>
       <StatusBar style="auto" />
-      <Link href="profile" style={{ color: "blue" }}>
-        Go to Profile
+      <Link href="home" style={{ color: "blue" }}>
+        Go to Home
       </Link>
     </View>
   );
